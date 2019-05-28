@@ -1,0 +1,22 @@
+div{
+
+    background-color: cornflowerblue;
+    color: azure;
+    font-size: 50px;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 30px;
+	width:100%;
+}
+input{
+    background-color: grey;
+    color: blue;
+    margin: auto;
+    font-size: 30px;
+    padding: 20px;
+    font-family: fantasy;
+}
+img{
+	width:30vw;
+	margin-left:34vw;
+}
